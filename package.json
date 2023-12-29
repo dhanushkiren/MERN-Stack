@@ -1,0 +1,22 @@
+{
+  "name": "mern_stack",
+  "version": "1.0.0",
+  "description": "Mern App to learn full stack Development",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server",
+    "frontend": "npm start --prefix frontend",
+    "dev": "concurrently \"npm run server\" \"npm run frontend\""
+  },
+  "keywords": [],
+  "author": "Dhanush",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.2"
+  }
+}
