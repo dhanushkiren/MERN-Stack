@@ -4,7 +4,7 @@
 <h3>MERN = MongoDB, ExpressJS, ReactJS, NodeJS</h3>
 
 ## Demo
-[play the video demo](assets/demo.mp4)
+[play the video demo](/demo.mp4)
 
 <h2>Happy learning ....</h2>
 
