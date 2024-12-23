@@ -26,6 +26,7 @@ const About = () => {
             <li>Node.js and Express.js back-end for API handling</li>
             <li>MongoDB for database management</li>
             <li>Full-stack integration and deployment</li>
+            <li>Full-stack integration and development</li>
           </ul>
         </div>
       </div>
